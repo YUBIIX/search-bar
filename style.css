@@ -1,0 +1,18 @@
+/* Style the search bar and results container (replace with your styles) */
+.search-bar {
+    display: flex;
+    margin: 1rem auto;
+    width: fit-content;
+  }
+  
+  #search-bar {
+    padding: 0.5rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    flex-grow: 1;
+    font-size: 1rem;
+  }
+  
+  #search-results {
+    /* Styles for the results container */
+  }
